@@ -48,8 +48,7 @@ cd SMS-Spam-Jupyter-
 pip install -r requirements.txt
 
 
-
-Step 3: Open the Jupyter Notebook
+### Step 3: Open the Jupyter Notebook
 After installing the necessary dependencies, open the Jupyter notebook (SMS-Spam detection using ml(MAIN).ipynb) by running:
 
 bash
@@ -58,7 +57,7 @@ Edit
 jupyter notebook SMS-Spam\ detection\ using\ ml\(MAIN\).ipynb
 This will open the notebook in your web browser, where you can execute the code step-by-step.
 
-Step 4: Run the Notebook
+### Step 4: Run the Notebook
 Follow the instructions in the notebook to:
 
 Load and preprocess the dataset.
