@@ -82,10 +82,10 @@ SMS-Spam-Jupyter-/
 Usage
 Once the Jupyter notebook is running, you will:
 
-- ** Preprocess the data: Clean the dataset by removing unwanted characters and stopwords. **
-- ** Feature Extraction: Use TF-IDF to convert text into numerical features.**
-- ** Model Training: Train multiple classifiers like Logistic Regression, Random Forest, and XGBoost.**
-- ** Model Evaluation: Evaluate models using metrics like accuracy, precision, recall, and F1-score.**
+- **Preprocess the data: Clean the dataset by removing unwanted characters and stopwords. **
+- **Feature Extraction: Use TF-IDF to convert text into numerical features.**
+- **Model Training: Train multiple classifiers like Logistic Regression, Random Forest, and XGBoost.**
+- **Model Evaluation: Evaluate models using metrics like accuracy, precision, recall, and F1-score.**
 
 NLTK Datasets
 To ensure that all required datasets for NLTK are downloaded, you will need to execute the following code in the notebook:
