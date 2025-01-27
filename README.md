@@ -52,9 +52,11 @@ pip install -r requirements.txt
 After installing the necessary dependencies, open the Jupyter notebook (SMS-Spam detection using ml(MAIN).ipynb) by running:
 
 bash
-Copy
-Edit
+```
 jupyter notebook SMS-Spam\ detection\ using\ ml\(MAIN\).ipynb
+
+bash
+```
 This will open the notebook in your web browser, where you can execute the code step-by-step.
 
 ### Step 4: Run the Notebook
@@ -97,14 +99,15 @@ To ensure that all required datasets for NLTK are downloaded, you will need to e
 This will download the punkt tokenizer and stopwords datasets needed for text processing.
 
 ## Conclusion
-This project showcases the application of Machine Learning and NLP to detect spam messages in SMS data. The notebook allows you to interactively explore the dataset, preprocess the data, train different models, and evaluate their performance. You can expand this project by experimenting with additional models, tuning hyperparameters, or adding more features.
+- This project showcases the application of Machine Learning and NLP to detect spam messages in SMS data.
+- The notebook allows you to interactively explore the dataset, preprocess the data, train different models, and evaluate their performance.
+- You can expand this project by experimenting with additional models, tuning hyperparameters, or adding more features.
 
 ## Future Work
-Hyperparameter Tuning: Further optimize the models for better accuracy.
-Deep Learning Models: Explore neural networks and other deep learning approaches for spam classification.
-Real-time Detection: Implement the model for real-time SMS classification in a mobile app or web service.
-Feel free to explore, and if you find any issues, don't hesitate to open an issue or contribute to the project.
+- Hyperparameter Tuning: Further optimize the models for better accuracy.
+- Deep Learning Models: Explore neural networks and other deep learning approaches for spam classification.
+- Real-time Detection: Implement the model for real-time SMS classification in a mobile app or web service.
+- Feel free to explore, and if you find any issues, don't hesitate to open an issue or contribute to the project happily.
 
 Happy coding! 🚀
-bash
-```
+
