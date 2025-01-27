@@ -83,18 +83,16 @@ The model's performance can be seen in the results, and the final model will be 
 NLTK Datasets
 To ensure that all required datasets for NLTK are downloaded, you will need to execute the following code in the notebook:
 
-python
-Copy
-Edit
+* python
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 This will download the punkt tokenizer and stopwords datasets needed for text processing.
 
-Conclusion
+## Conclusion
 This project showcases the application of Machine Learning and NLP to detect spam messages in SMS data. The notebook allows you to interactively explore the dataset, preprocess the data, train different models, and evaluate their performance. You can expand this project by experimenting with additional models, tuning hyperparameters, or adding more features.
 
-Future Work
+## Future Work
 Hyperparameter Tuning: Further optimize the models for better accuracy.
 Deep Learning Models: Explore neural networks and other deep learning approaches for spam classification.
 Real-time Detection: Implement the model for real-time SMS classification in a mobile app or web service.
