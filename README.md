@@ -55,7 +55,6 @@ bash
 ```
 jupyter notebook SMS-Spam\ detection\ using\ ml\(MAIN\).ipynb
 
-bash
 ```
 This will open the notebook in your web browser, where you can execute the code step-by-step.
 
@@ -108,6 +107,11 @@ This will download the punkt tokenizer and stopwords datasets needed for text pr
 - Deep Learning Models: Explore neural networks and other deep learning approaches for spam classification.
 - Real-time Detection: Implement the model for real-time SMS classification in a mobile app or web service.
 - Feel free to explore, and if you find any issues, don't hesitate to open an issue or contribute to the project happily.
+
+("""
+    ---  
+    Developed by **Piyush Kumar Dey** | [LinkedIn](https://linkedin.com/in/piyush-kumar-dey-291b19342) | [GitHub](https://github.com/Piyushkumar030)
+""")
 
 Happy coding! 🚀
 
