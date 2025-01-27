@@ -38,8 +38,16 @@ The dataset contains the following columns:
 
 ### Step 1: Clone the Repository
 Clone the project repository to your local machine using the following command:
-```bash
+
 git clone https://github.com/Piyushkumar030/SMS-Spam-Jupyter-.git
+
+### Step 2: Install Dependencies
+Navigate to the project folder and install the required dependencies from the requirements.txt file:
+
+cd SMS-Spam-Jupyter-
+pip install -r requirements.txt
+
+
 
 Step 3: Open the Jupyter Notebook
 After installing the necessary dependencies, open the Jupyter notebook (SMS-Spam detection using ml(MAIN).ipynb) by running:
@@ -99,3 +107,5 @@ Real-time Detection: Implement the model for real-time SMS classification in a m
 Feel free to explore, and if you find any issues, don't hesitate to open an issue or contribute to the project.
 
 Happy coding! 🚀
+bash
+```
