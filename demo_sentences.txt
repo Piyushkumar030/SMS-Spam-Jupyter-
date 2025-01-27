@@ -1,0 +1,33 @@
+# Here, I have provided some sentences to check the working of the project model
+
+## Spam:
+```
+1. "Urgent! You've won a free vacation! Click here to claim!" (Phishing, generic offer)
+2. "Enlarge your penis naturally with this revolutionary pill!" (Deceptive, misleading)
+3. "Your account is about to be suspended. Verify now to avoid interruption." (Urgency, fear-mongering)
+4. "Introducing the miracle weight loss solution! Lose 20 pounds in a week!" (Exaggerated claims, unrealistic promises)
+5. "Dear valued customer, we're offering a limited-time discount on our erectile dysfunction medication." (Unsolicited, potentially offensive)
+6. "You have been selected for a secret lottery! Claim your millions today!" (False sense of exclusivity, unrealistic expectations)
+```
+
+## Not Spam:
+7. "Hi [Name], just wanted to remind you about our coffee date tomorrow at 3 PM." (Personal, relevant to recipient)
+8. "Congratulations on your promotion! Let's celebrate soon." (Congratulatory, positive sentiment)
+9. "I'm looking for a reliable dog sitter for next weekend. Are you available?" (Specific request, clear purpose)
+10. "Hey, I found this interesting article you might enjoy. [Link]" (Sharing relevant information, helpful)
+11. "Just wanted to say thank you for your help with the project. I really appreciate it." (Expression of gratitude, genuine)
+12. "Reminder: The team meeting is tomorrow at 10 AM in the conference room." (Important information, relevant to recipient's work)
+13. "I'm free this evening. Want to grab dinner?" (Casual invitation, friendly tone)
+14. "Hey, I'm thinking of trying that new restaurant downtown. Have you been?" (Casual conversation, seeking recommendation)
+15. "I'm looking for a new apartment. Any recommendations in the [Neighborhood] area?" (Seeking advice, genuine request)
+16. "Happy Birthday! Hope you have an amazing day." (Birthday greeting, sincere)
+17. "I'm working on a new project and could really use your input. Would you be available to chat sometime next week?" (Professional, seeking collaboration)
+18. "Just wanted to share this funny video I came across." (Sharing something enjoyable, no ulterior motive)
+19. "I'm going to be out of town next week. Please let me know if you need anything before I leave." (Informative, providing context)
+20. "I'm having a small get-together next weekend. Would you like to come?" (Social invitation, clear purpose)
+
+# Key Differences:
+
+**Spam:** Often contains urgency, misleading claims, generic greetings, suspicious links, and attempts to elicit personal information.
+**Not Spam:** Typically personalized, contains genuine information or requests, has a clear purpose, and maintains a respectful and professional tone.
+
