@@ -53,7 +53,7 @@ After installing the necessary dependencies, open the Jupyter notebook (SMS-Spam
 
 bash
 ```
-jupyter notebook SMS-Spam\ detection\ using\ ml\(MAIN\).ipynb
+jupyter notebook SMS-Spam detection using ml(MAIN).ipynb
 
 ```
 This will open the notebook in your web browser, where you can execute the code step-by-step.
