@@ -28,7 +28,7 @@ This project is implemented in a **Jupyter Notebook**, where the data processing
 - **Seaborn** - For data visualization
 
 ## Dataset
-The dataset used in this project is a collection of SMS messages that are labeled as either **spam** or **ham** (not spam). It can be found in the file `spam.csv`.
+The dataset used in this project is a collection of SMS messages that are labeled as either **spam** or **ham** (not spam). It can be found in the file `spam.csv`( taken from 'kaggle.com').
 
 The dataset contains the following columns:
 - **label**: Label indicating whether the message is spam or ham.
