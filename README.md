@@ -82,7 +82,7 @@ SMS-Spam-Jupyter-/
 Usage
 Once the Jupyter notebook is running, you will:
 
-- **Preprocess the data: Clean the dataset by removing unwanted characters and stopwords. **
+- **Preprocess the data: Clean the dataset by removing unwanted characters and stopwords.**
 - **Feature Extraction: Use TF-IDF to convert text into numerical features.**
 - **Model Training: Train multiple classifiers like Logistic Regression, Random Forest, and XGBoost.**
 - **Model Evaluation: Evaluate models using metrics like accuracy, precision, recall, and F1-score.**
@@ -90,10 +90,10 @@ Once the Jupyter notebook is running, you will:
 NLTK Datasets
 To ensure that all required datasets for NLTK are downloaded, you will need to execute the following code in the notebook:
 
-* python
-import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
+- python
+- import nltk
+- nltk.download('punkt')
+- nltk.download('stopwords')
 This will download the punkt tokenizer and stopwords datasets needed for text processing.
 
 ## Conclusion
