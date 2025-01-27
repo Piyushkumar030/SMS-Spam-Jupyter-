@@ -70,7 +70,7 @@ The repository is structured as follows:
 
 bash
 Copy
-Edit
+```
 SMS-Spam-Jupyter-/
 │
 ├── SMS-Spam detection using ml(MAIN).ipynb   # Jupyter Notebook with the project code
@@ -79,6 +79,7 @@ SMS-Spam-Jupyter-/
 ├── vectorizer.pkl                             # Saved vectorizer for feature extraction
 ├── requirements.txt                          # List of dependencies for the project
 └── README.md                                  # Project documentation (this file)
+```
 Usage
 Once the Jupyter notebook is running, you will:
 
