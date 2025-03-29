@@ -7,7 +7,7 @@ This project is an **SMS Spam Classifier** using Machine Learning techniques and
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [How to Run the Project](#how-to-run-the-project)
-- [Code Structure](#code-structure)
+- [Code Structure](#code-structure) 
 - [Usage](#usage)
 - [NLTK Datasets](#nltk-datasets)
 - [Conclusion](#conclusion)
